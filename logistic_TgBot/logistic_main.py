@@ -27,7 +27,7 @@ months = {
 max_length = 4096
 
 # Установите токен своего Telegram бота
-bot = telebot.TeleBot('6441360109:AAHlY8DUoWMRbWCRMLPruyE6quvSCwpC1Do')
+bot = telebot.TeleBot('')
 
 # Установите аккаунт сервисного аккаунта для Google Sheets
 # Следуйте инструкциям по ссылке https://gspread.readthedocs.io/en/latest/oauth2.html#service-account
