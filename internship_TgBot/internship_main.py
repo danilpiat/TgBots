@@ -42,7 +42,7 @@ sheet = client.open_by_key(spreadsheet_id).worksheet('Лист1')
 data = sheet.get_all_values()
 
 # Инициализация бота
-bot = telebot.TeleBot('5764050861:AAHgihUhnffhSQAr2UQAQtixaz5Wi7VBulk')
+bot = telebot.TeleBot('')
 
 chat_ids = []
 
